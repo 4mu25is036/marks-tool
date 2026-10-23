@@ -2,5 +2,6 @@
 def average(marks):
 	return sum(marks) /len(marks)
 def highest(marks):
-	return  max(marks)
+    return  max(marks)
+
 
